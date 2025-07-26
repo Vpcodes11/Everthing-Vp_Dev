@@ -5,4 +5,5 @@ VIbe Codes & Low Codes Also Allowed, but beware, most of the vibe coding tools d
 
 
 -------------------------------------------------------
-TatvaClub & TavtClub1 --- Replit
+The names of the Codebases used is written on their folder name onwards.
+
